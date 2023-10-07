@@ -2,6 +2,8 @@ Hello! My name is Łukasz [:loud_sound:](https://upload.wikimedia.org/wikipedia/
 
 Self-motivated programmer looking for new challenges. Every day I develop my programming skills and look for development opportunities. I would like to work mainly with Python, C# and PostgreSQL.
 
+In my free time I like to browse and create maps :earth_americas:
+
 :e-mail: lukas.kierzek@gmail.com
 
 :link: [Linkedin profile](https://www.linkedin.com/in/%C5%82ukasz-kierzek-a4a977152/)
