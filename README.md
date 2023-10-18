@@ -21,7 +21,7 @@ A console program to help learn Hiragana gojuuon and Hiragana gojuuon written in
 
 Stack: C#, .NET, xUnit.net
 
-## [hiragana-katana-learn](https://github.com/lukaskierzek/Hiragana-Katakana-Learn-Python)
+## [Hiragana-Katakana-Learn-Python](https://github.com/lukaskierzek/Hiragana-Katakana-Learn-Python)
 
 A console program to help learn Hiragana gojuuon and Hiragana gojuuon written in Python.
 
