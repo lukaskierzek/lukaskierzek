@@ -31,6 +31,14 @@ Stack: Python, PyTest
 
 Portfolio demonstrating my knowledge of sql. For example MS SQL, PostgreSql.
 
+Stack: PostgreSQL, MSSQL
+
+## [j.a.portfolio](https://github.com/lukaskierzek/j.a.portfolio)
+
+Webpage contains the portfolio of Justyna Adamus.
+
+Stack: React, TypeScript, HTML, CSS
+
 ## [cargo_app](https://github.com/lukaskierzek/cargo_app)
 
 A project to manage aricraft cargo (postponed project)
