@@ -21,12 +21,6 @@ A console program to help learn Hiragana gojuuon and Hiragana gojuuon written in
 
 Stack: C#, .NET, xUnit.net
 
-## [Hiragana-Katakana-Learn-Python](https://github.com/lukaskierzek/Hiragana-Katakana-Learn-Python)
-
-A console program to help learn Hiragana gojuuon and Hiragana gojuuon written in Python.
-
-Stack: Python, PyTest
-
 ## [SQL-portfolio](https://github.com/lukaskierzek/SQL-portfolio)
 
 Portfolio demonstrating my knowledge of sql. For example MS SQL, PostgreSql.
@@ -39,8 +33,16 @@ Webpage contains the portfolio of Justyna Adamus.
 
 Stack: React, TypeScript, HTML, CSS
 
+## [Hiragana-Katakana-Learn-Python](https://github.com/lukaskierzek/Hiragana-Katakana-Learn-Python)
+
+A console program to help learn Hiragana gojuuon and Hiragana gojuuon written in Python.
+
+Stack: Python, PyTest
+
+<!--
 ## [cargo_app](https://github.com/lukaskierzek/cargo_app)
 
 A project to manage aricraft cargo (postponed project)
 
 Stack: Python, unittest, Shell, HTML, CSS, Docker, NGINX
+-->
