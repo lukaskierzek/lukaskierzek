@@ -15,6 +15,12 @@ In my free time I like to browse and create maps :earth_americas:
 
 # Projects
 
+## [KanjiLearn](https://github.com/lukaskierzek/KanjiLearn)
+
+A web page to learn Kanji.
+
+Stack: C#, .NET, Entity Framework Core, React, PostgreSql.
+
 ## [hiragana-katana-learn](https://github.com/lukaskierzek/hiragana-katakana-learn)
 
 A console program to help learn Hiragana gojuuon and Hiragana gojuuon written in C#.
