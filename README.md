@@ -19,7 +19,7 @@ In my free time I like to browse and create maps :earth_americas:
 
 A web page to learn Kanji.
 
-Stack: C#, .NET, Entity Framework Core, React, PostgreSql.
+Stack: C#, .NET, Entity Framework Core, React, PostgreSQL.
 
 ## [hiragana-katana-learn](https://github.com/lukaskierzek/hiragana-katakana-learn)
 
