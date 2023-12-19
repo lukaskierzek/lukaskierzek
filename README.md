@@ -3,7 +3,7 @@
 My name is Łukasz [:loud_sound:](https://upload.wikimedia.org/wikipedia/commons/d/d9/Pl-%C5%81ukasz.ogg) :)
 
 Self-motivated programmer looking for new challenges. Every day I develop my programming skills and look for development
-opportunities. I would like to work mainly with Python, C# and PostgreSQL.
+opportunities
 
 In my free time I like to browse and create maps :earth_americas:
 
