@@ -11,15 +11,15 @@ In my free time I like to browse and create maps :earth_americas:
 
 :link: [Linkedin profile](https://www.linkedin.com/in/%C5%82ukasz-kierzek-a4a977152/)
 
-:link: [X(Twitter) profile](https://twitter.com/Kierzu)
+:link: [X profile](https://twitter.com/Kierzu)
 
 # Projects
 
-## [KanjiLearn](https://github.com/lukaskierzek/KanjiLearn)
+## [SushiShop](https://github.com/lukaskierzek/SushiShop)
 
-A web page to learn Kanji.
+Web page where you can buy sushi.
 
-Stack: C#, .NET, Entity Framework Core, React, MS SQL.
+Stack: C#, .NET, Entity Framework Core, Angular, MS SQL.
 
 ## [hiragana-katana-learn](https://github.com/lukaskierzek/hiragana-katakana-learn)
 
