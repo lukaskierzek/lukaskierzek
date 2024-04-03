@@ -25,25 +25,25 @@ Stack: C#, .NET, Entity Framework Core, Angular, MS SQL.
 
 A console program to help learn Hiragana gojuuon and Hiragana gojuuon written in C#.
 
-Stack: C#, .NET, xUnit.net
+Stack: C#, .NET, xUnit.net.
 
 ## [SQL-portfolio](https://github.com/lukaskierzek/SQL-portfolio)
 
 Portfolio demonstrating my knowledge of sql. For example MS SQL, PostgreSql.
 
-Stack: PostgreSQL, MSSQL
+Stack: PostgreSQL, MSSQL.
 
 ## [j.a.portfolio](https://github.com/lukaskierzek/j.a.portfolio)
 
 Webpage contains the portfolio of Justyna Adamus.
 
-Stack: React, TypeScript, HTML, CSS
+Stack: React, TypeScript, HTML, CSS.
 
 ## [Hiragana-Katakana-Learn-Python](https://github.com/lukaskierzek/Hiragana-Katakana-Learn-Python)
 
 A console program to help learn Hiragana gojuuon and Hiragana gojuuon written in Python.
 
-Stack: Python, PyTest
+Stack: Python, PyTest.
 
 <!--
 ## [cargo_app](https://github.com/lukaskierzek/cargo_app)
