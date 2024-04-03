@@ -5,7 +5,7 @@ My name is Łukasz [:loud_sound:](https://upload.wikimedia.org/wikipedia/commons
 Self-motivated programmer looking for new challenges. Every day I develop my programming skills and look for development
 opportunities
 
-In my free time I like to browse and create maps :earth_americas:
+In my free time I like to browse maps and learn Japanese :earth_americas: :japan:
 
 :e-mail: lukas.kierzek@gmail.com
 
