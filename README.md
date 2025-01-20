@@ -2,9 +2,9 @@
 
 My name is Łukasz [:loud_sound:](https://upload.wikimedia.org/wikipedia/commons/d/d9/Pl-%C5%81ukasz.ogg) :)
 
-Hi! I'm a programmer at Pawbol. My field of interest are data, data analysis, data processing and anything related to data. I work with Excel, Python (mainly Pandas library), Comarch BI and other programs such as PyCharm or Visual Studio Code.
+Hi! I'm Łukasz. My fields of interest are programming, maps, and data. I'm also interested in computer hardware and software.
 
-In my free time I like to browse maps and learn Japanese :earth_americas: :japan:
+In my free time, I enjoy browsing maps and learning Japanese :earth_americas: :japan:
 
 :e-mail: lukas.kierzek@gmail.com
 
