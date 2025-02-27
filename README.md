@@ -12,7 +12,7 @@ In my free time, I enjoy browsing maps and learning Japanese :earth_americas: :j
 
 :link: [X profile](https://twitter.com/Kierzu)
 
-# Projects
+# Main projects
 
 <!--
 ## [SushiShop](https://github.com/lukaskierzek/SushiShop)
@@ -44,11 +44,19 @@ Webpage contains the portfolio of Justyna Adamus.
 Stack: React, TypeScript, HTML, CSS.
 -->
 
+## [Online-sushi-shop](https://github.com/lukaskierzek/online-sushi-shop)
+
+Web page written using Java, Spring Boot, PostgreSQL and Angular.
+
+Stack: Java, Sprinb Boot, PotsgreSQL, Angular.
+
+<!--
 ## [Hiragana-Katakana-Learn-Python](https://github.com/lukaskierzek/Hiragana-Katakana-Learn-Python)
 
 A console program to help learn Hiragana gojuuon and Hiragana gojuuon written in Python.
 
 Stack: Python, PyTest.
+-->
 
 
 
