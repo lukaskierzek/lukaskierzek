@@ -39,21 +39,13 @@ In my free time, I enjoy browsing maps and learning Japanese :earth_americas: :j
 
 # Main projects
 
-<!--
-## [SushiShop](https://github.com/lukaskierzek/SushiShop)
+## [Online-sushi-shop](https://github.com/lukaskierzek/online-sushi-shop)
 
-Web page where you can buy sushi.
+Web page written using Java, Spring Boot, PostgreSQL and Angular.
 
-Stack: C#, .NET, Entity Framework Core, Angular, MS SQL.
--->
+Stack: Java, Sprinb Boot, PotsgreSQL, Angular.
 
-<!--
-## [hiragana-katana-learn](https://github.com/lukaskierzek/hiragana-katakana-learn)
 
-A console program to help learn Hiragana gojuuon and Hiragana gojuuon written in C#.
-
-Stack: C#, .NET, xUnit.net.
--->
 
 ## [SQL-portfolio](https://github.com/lukaskierzek/SQL-portfolio)
 
@@ -61,19 +53,12 @@ Portfolio demonstrating my knowledge of sql. For example MS SQL, PostgreSql.
 
 Stack: PostgreSQL, MSSQL.
 
-<!--
+
 ## [j.a.portfolio](https://github.com/lukaskierzek/j.a.portfolio)
 
 Webpage contains the portfolio of Justyna Adamus.
 
 Stack: React, TypeScript, HTML, CSS.
--->
-
-## [Online-sushi-shop](https://github.com/lukaskierzek/online-sushi-shop)
-
-Web page written using Java, Spring Boot, PostgreSQL and Angular.
-
-Stack: Java, Sprinb Boot, PotsgreSQL, Angular.
 
 <!--
 ## [Hiragana-Katakana-Learn-Python](https://github.com/lukaskierzek/Hiragana-Katakana-Learn-Python)
