@@ -12,7 +12,7 @@ In my free time, I enjoy browsing maps and learning Japanese :earth_americas: :j
 
 # Tech skills
 - **Programming Language**: Java, Python
-- **Web Development**: React, Angular, TypeScript
+- **Web Development**: Vue, TypeScript
 - **Frameworks and Technologies**:
     - **Java**: Spring Boot, Hibernate
     - **Python**: Pandas
