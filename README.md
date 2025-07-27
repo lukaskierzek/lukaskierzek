@@ -9,39 +9,35 @@ In my free time, I enjoy browsing maps and learning Japanese :earth_americas: :j
 :e-mail: lukas.kierzek@gmail.com
 
 :link: [Linkedin profile](https://www.linkedin.com/in/%C5%82ukasz-kierzek-a4a977152/)
-
+<!--
 # Tech skills
 - **Programming Language**: Java, Python
-- **Web Development**: Vue, TypeScript
+- **Web Development**: Vue, TypeScript 
 - **Frameworks and Technologies**:
     - **Java**: Spring Boot, Hibernate
     - **Python**: Pandas
     - **DataBases**: PostgreSQL, MS SQL, Oracle
+-->
 
  # Tech stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff) 
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
-![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 
 # Main projects
 
 ## [Online-sushi-shop](https://github.com/lukaskierzek/online-sushi-shop)
 
-Web page written using Java, Spring Boot, PostgreSQL and Vue.
+Web page written using Java, Spring Boot, PostgreSQL.
 
-Stack: Java, Sprinb Boot, PotsgreSQL, Vue.
+Stack: Java, Sprinb Boot, PotsgreSQL.
 
 
 
