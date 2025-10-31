@@ -2,7 +2,7 @@
 
 My name is Łukasz [:loud_sound:](https://upload.wikimedia.org/wikipedia/commons/d/d9/Pl-%C5%81ukasz.ogg) :)
 
-Hi! I'm Łukasz. My fields of interest are programming, maps, and data. I'm also interested in computer hardware and software.
+Hi! I'm Łukasz. My fields of interest are programming (Java and Python), maps, and data. I'm also interested in computer hardware and software.
 
 In my free time, I enjoy browsing maps and learning Japanese :earth_americas: :japan:
 
@@ -21,7 +21,6 @@ In my free time, I enjoy browsing maps and learning Japanese :earth_americas: :j
 
  # Tech stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff) 
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
@@ -30,6 +29,7 @@ In my free time, I enjoy browsing maps and learning Japanese :earth_americas: :j
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 # Main projects
 
@@ -47,12 +47,13 @@ Portfolio demonstrating my knowledge of sql. For example MS SQL, PostgreSql.
 
 Stack: PostgreSQL, MSSQL.
 
-
+<!--
 ## [j.a.portfolio](https://github.com/lukaskierzek/j.a.portfolio)
 
 Webpage contains the portfolio of Justyna Adamus.
 
 Stack: React, TypeScript, HTML, CSS.
+-->
 
 <!--
 ## [Hiragana-Katakana-Learn-Python](https://github.com/lukaskierzek/Hiragana-Katakana-Learn-Python)
