@@ -40,12 +40,13 @@ Web page written using Java, Spring Boot, PostgreSQL.
 Stack: Java, Sprinb Boot, PotsgreSQL.
 
 
-
+<!--
 ## [SQL-portfolio](https://github.com/lukaskierzek/SQL-portfolio)
 
 Portfolio demonstrating my knowledge of sql. For example MS SQL, PostgreSql.
 
 Stack: PostgreSQL, MSSQL.
+-->
 
 <!--
 ## [j.a.portfolio](https://github.com/lukaskierzek/j.a.portfolio)
