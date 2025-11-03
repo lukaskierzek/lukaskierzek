@@ -2,7 +2,7 @@
 
 My name is Łukasz [:loud_sound:](https://upload.wikimedia.org/wikipedia/commons/d/d9/Pl-%C5%81ukasz.ogg) :)
 
-Hi! I'm Łukasz. My fields of interest are programming (Java and Python), maps, and data. I'm also interested in computer hardware and software.
+Hi! I'm Łukasz. My main interests lie in programming — primarily in Java, and occasionally in Python. I'm also interested in cybersecurity.
 
 In my free time, I enjoy browsing maps and learning Japanese :earth_americas: :japan:
 
